@@ -1,1 +1,1 @@
-new B.txt
+modify B.txt
